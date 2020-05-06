@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>sub-district map locations.xlsx</name>
+    <Style id="icon-1899-01579B-labelson">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-3949AB-labelson">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-labelson">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-673AB7-labelson">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-817717-labelson">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-labelson">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-A52714-labelson">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Kyasands</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.024627685546875,27.94896697998047<br>Johannesburg A: Johannesburg A]]></description>
+      <styleUrl>#icon-1899-01579B-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.024627685546875,27.94896697998047</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg A</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          27.9489669799805,-26.0246276855469,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dainfern</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -25.984529495239258,27.996845245361328<br>Johannesburg A: Johannesburg A]]></description>
+      <styleUrl>#icon-1899-01579B-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-25.984529495239258,27.996845245361328</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg A</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          27.9968452453613,-25.9845294952393,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Midrand</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -25.959999084472656,28.1299991607666<br>Johannesburg A: Johannesburg A]]></description>
+      <styleUrl>#icon-1899-01579B-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-25.959999084472656,28.1299991607666</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg A</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          28.1299991607666,-25.9599990844727,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lanseria</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -25.941673278808594,27.92682647705078<br>Johannesburg A: Johannesburg A]]></description>
+      <styleUrl>#icon-1899-01579B-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-25.941673278808594,27.92682647705078</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg A</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          27.9268264770508,-25.9416732788086,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fourways </name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.026845932006836,28.000171661376953<br>Johannesburg A: Johannesburg A]]></description>
+      <styleUrl>#icon-1899-01579B-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.026845932006836,28.000171661376953</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg A</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          28.000171661377,-26.0268459320068,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ivory Park</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -25.997718811035156,28.193248748779297<br>Johannesburg A: Johannesburg A]]></description>
+      <styleUrl>#icon-1899-01579B-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-25.997718811035156,28.193248748779297</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg A</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          28.1932487487793,-25.9977188110352,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Randburg</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.095869064331055,28.002840042114258<br>Johannesburg A: Johannesburg B]]></description>
+      <styleUrl>#icon-1899-817717-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.095869064331055,28.002840042114258</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg B</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          28.0028400421143,-26.0958690643311,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rosebank</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.142778396606445,28.039722442626953<br>Johannesburg A: Johannesburg B]]></description>
+      <styleUrl>#icon-1899-817717-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.142778396606445,28.039722442626953</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg B</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          28.039722442627,-26.1427783966064,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Emmarentia</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.158214569091797,28.007978439331055<br>Johannesburg A: Johannesburg B]]></description>
+      <styleUrl>#icon-1899-817717-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.158214569091797,28.007978439331055</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg B</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          28.0079784393311,-26.1582145690918,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Greenside</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.154722213745117,28.01277732849121<br>Johannesburg A: Johannesburg B]]></description>
+      <styleUrl>#icon-1899-817717-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.154722213745117,28.01277732849121</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg B</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          28.0127773284912,-26.1547222137451,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Melville</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.178054809570312,27.997777938842773<br>Johannesburg A: Johannesburg B]]></description>
+      <styleUrl>#icon-1899-817717-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.178054809570312,27.997777938842773</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg B</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          27.9977779388428,-26.1780548095703,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mayfair</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.204999923706055,28.0141658782959<br>Johannesburg A: Johannesburg B]]></description>
+      <styleUrl>#icon-1899-817717-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.204999923706055,28.0141658782959</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg B</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          28.0141658782959,-26.2049999237061,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Northcliff</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.13111114501953,27.962223052978516<br>Johannesburg A: Johannesburg B]]></description>
+      <styleUrl>#icon-1899-817717-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.13111114501953,27.962223052978516</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg B</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          27.9622230529785,-26.1311111450195,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Parktown</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.176061630249023,28.04273223876953<br>Johannesburg A: Johannesburg B]]></description>
+      <styleUrl>#icon-1899-817717-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.176061630249023,28.04273223876953</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg B</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          28.0427322387695,-26.176061630249,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Parktown North</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.13944435119629,28.030277252197266<br>Johannesburg A: Johannesburg B]]></description>
+      <styleUrl>#icon-1899-817717-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.13944435119629,28.030277252197266</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg B</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          28.0302772521973,-26.1394443511963,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Roodepoort</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.09398651123047,27.884098052978516<br>Johannesburg A: Johannesburg C]]></description>
+      <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.09398651123047,27.884098052978516</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg C</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          27.8840980529785,-26.0939865112305,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Constantia Kloof</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.144969940185547,27.91065216064453<br>Johannesburg A: Johannesburg C]]></description>
+      <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.144969940185547,27.91065216064453</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg C</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          27.9106521606445,-26.1449699401855,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Northgate</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.057668685913086,27.952547073364258<br>Johannesburg A: Johannesburg C]]></description>
+      <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.057668685913086,27.952547073364258</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg C</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          27.9525470733643,-26.0576686859131,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Florida</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.178234100341797,27.918750762939453<br>Johannesburg A: Johannesburg C]]></description>
+      <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.178234100341797,27.918750762939453</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg C</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          27.9187507629395,-26.1782341003418,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bram Fischerville</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.198957443237305,27.862445831298828<br>Johannesburg A: Johannesburg C]]></description>
+      <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.198957443237305,27.862445831298828</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg C</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          27.8624458312988,-26.1989574432373,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Doornkop</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.24455451965332,27.806596755981445<br>Johannesburg A: Johannesburg D]]></description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.24455451965332,27.806596755981445</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg D</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          27.8065967559814,-26.2445545196533,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Soweto</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.28035545349121,27.876880645751953<br>Johannesburg A: Johannesburg D]]></description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.28035545349121,27.876880645751953</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg D</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          27.876880645752,-26.2803554534912,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dobsonville</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.223888397216797,27.866666793823242<br>Johannesburg A: Johannesburg D]]></description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.223888397216797,27.866666793823242</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg D</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          27.8666667938232,-26.2238883972168,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Protea Glen</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.27429962158203,27.808761596679688<br>Johannesburg A: Johannesburg D]]></description>
+      <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.27429962158203,27.808761596679688</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg D</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          27.8087615966797,-26.274299621582,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alexandra</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.10320281982422,28.101564407348633<br>Johannesburg A: Johannesburg E]]></description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.10320281982422,28.101564407348633</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg E</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          28.1015644073486,-26.1032028198242,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wynberg</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.106393814086914,28.084636688232422<br>Johannesburg A: Johannesburg E]]></description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.106393814086914,28.084636688232422</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg E</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          28.0846366882324,-26.1063938140869,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sandton</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.10680389404297,28.052370071411133<br>Johannesburg A: Johannesburg E]]></description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.10680389404297,28.052370071411133</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg E</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          28.0523700714111,-26.106803894043,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Orange Grove</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.16265296936035,28.087114334106445<br>Johannesburg A: Johannesburg E]]></description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.16265296936035,28.087114334106445</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg E</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          28.0871143341064,-26.1626529693604,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Houghton</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.170263290405273,28.065948486328125<br>Johannesburg A: Johannesburg E]]></description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.170263290405273,28.065948486328125</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg E</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          28.0659484863281,-26.1702632904053,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Inner City</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.204809188842773,28.041290283203125<br>Johannesburg A: Johannesburg F]]></description>
+      <styleUrl>#icon-1899-3949AB-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.204809188842773,28.041290283203125</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg F</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          28.0412902832031,-26.2048091888428,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Johannesburg South</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.284931182861328,28.026081085205078<br>Johannesburg A: Johannesburg F]]></description>
+      <styleUrl>#icon-1899-3949AB-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.284931182861328,28.026081085205078</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg F</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          28.0260810852051,-26.2849311828613,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Orange Farm</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.472997665405273,27.865745544433594<br>Johannesburg A: Johannesburg G]]></description>
+      <styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.472997665405273,27.865745544433594</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg G</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          27.8657455444336,-26.4729976654053,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Weilers Farm</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.464879989624023,27.99488067626953<br>Johannesburg A: Johannesburg G]]></description>
+      <styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.464879989624023,27.99488067626953</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg G</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          27.9948806762695,-26.464879989624,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ennerdale</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.415760040283203,27.843225479125977<br>Johannesburg A: Johannesburg G]]></description>
+      <styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.415760040283203,27.843225479125977</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg G</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          27.843225479126,-26.4157600402832,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lenasia</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.324735641479492,27.85242462158203<br>Johannesburg A: Johannesburg G]]></description>
+      <styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.324735641479492,27.85242462158203</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg G</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          27.852424621582,-26.3247356414795,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eldorado Park</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.29221534729004,27.903467178344727<br>Johannesburg A: Johannesburg G]]></description>
+      <styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.29221534729004,27.903467178344727</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg G</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          27.9034671783447,-26.29221534729,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Protea South</name>
+      <description><![CDATA[-25.94026756286621,28.00996208190918: -26.285598754882812,27.841819763183594<br>Johannesburg A: Johannesburg G]]></description>
+      <styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="-25.94026756286621,28.00996208190918">
+          <value>-26.285598754882812,27.841819763183594</value>
+        </Data>
+        <Data name="Johannesburg A">
+          <value>Johannesburg G</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          27.8418197631836,-26.2855987548828,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
