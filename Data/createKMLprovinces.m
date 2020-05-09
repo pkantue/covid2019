@@ -13,13 +13,13 @@ data_RR = readtable('Covid2019\SA_data_archive\Province_database.xlsx','sheet','
 
 %% write to KML file
 % open file 
-fid = fopen('provinces_maps.kml','w');
+fid = fopen(['provinces_maps_' date '.kml'],'w');
 
 % write preamble
 fprintf(fid,'<?xml version="1.0" encoding="UTF-8"?>\n');
 fprintf(fid,'<kml xmlns="http://www.opengis.net/kml/2.2">\n');
 fprintf(fid,'  <Document>\n');
-fprintf(fid,'    <name>Provinces: 07-05-2020</name>\n');
+fprintf(fid,'    <name>Provinces: 08-05-2020</name>\n');
 fprintf(fid,'    <Style id="icon-1653-0288D1-normal">\n');
 fprintf(fid,'      <IconStyle>\n');
 fprintf(fid,'        <color>ffd18802</color>\n');

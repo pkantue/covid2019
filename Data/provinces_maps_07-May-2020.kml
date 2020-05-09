@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Provinces: 07-05-2020</name>
+    <Style id="icon-1653-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1653-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1653-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1653-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1653-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Northern Cape</name>
+      <description><![CDATA[Active Cases: 11  https://bit.ly/3chyZlE<br>Recovery Rate: 100.00%  https://bit.ly/2Wgw33d<br>Death Rate: 0.00%  https://bit.ly/3baSuuF<br>]]></description>
+      <styleUrl>#icon-1653-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          21.8568586,-29.0466808, 0 
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>North West</name>
+      <description><![CDATA[Active Cases: 20  https://bit.ly/3chyZlE<br>Recovery Rate: 100.00%  https://bit.ly/2Wgw33d<br>Death Rate: 0.00%  https://bit.ly/3baSuuF<br>]]></description>
+      <styleUrl>#icon-1653-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          25.2837585,-26.6638599, 0 
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mpumalanga</name>
+      <description><![CDATA[Active Cases: 37  https://bit.ly/3chyZlE<br>Recovery Rate: 100.00%  https://bit.ly/2Wgw33d<br>Death Rate: 0.00%  https://bit.ly/3baSuuF<br>]]></description>
+      <styleUrl>#icon-1653-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.1500153,-26.2768490, 0 
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Limpopo</name>
+      <description><![CDATA[Active Cases: 11  https://bit.ly/3chyZlE<br>Recovery Rate: 90.00%  https://bit.ly/2Wgw33d<br>Death Rate: 10.00%  https://bit.ly/3baSuuF<br>]]></description>
+      <styleUrl>#icon-1653-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          29.4179324,-23.4012946, 0 
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eastern Cape</name>
+      <description><![CDATA[Active Cases: 523  https://bit.ly/3chyZlE<br>Recovery Rate: 95.57%  https://bit.ly/2Wgw33d<br>Death Rate: 4.43%  https://bit.ly/3baSuuF<br>]]></description>
+      <styleUrl>#icon-1653-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          26.4193890,-32.2968402, 0 
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Free State</name>
+      <description><![CDATA[Active Cases: 26  https://bit.ly/3chyZlE<br>Recovery Rate: 94.44%  https://bit.ly/2Wgw33d<br>Death Rate: 5.56%  https://bit.ly/3baSuuF<br>]]></description>
+      <styleUrl>#icon-1653-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          26.7967849,-28.4541105, 0 
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KwaZulu-Natal</name>
+      <description><![CDATA[Active Cases: 744  https://bit.ly/3chyZlE<br>Recovery Rate: 91.30%  https://bit.ly/2Wgw33d<br>Death Rate: 8.70%  https://bit.ly/3baSuuF<br>]]></description>
+      <styleUrl>#icon-1653-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.8958242,-28.5305539, 0 
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Western Cape</name>
+      <description><![CDATA[Active Cases: 2793  https://bit.ly/3chyZlE<br>Recovery Rate: 93.42%  https://bit.ly/2Wgw33d<br>Death Rate: 6.58%  https://bit.ly/3baSuuF<br>]]></description>
+      <styleUrl>#icon-1653-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          21.8568586,-33.2277918, 0 
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gauteng</name>
+      <description><![CDATA[Active Cases: 753  https://bit.ly/3chyZlE<br>Recovery Rate: 98.57%  https://bit.ly/2Wgw33d<br>Death Rate: 1.43%  https://bit.ly/3baSuuF<br>]]></description>
+      <styleUrl>#icon-1653-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          28.1122679,-26.2707593, 0 
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
