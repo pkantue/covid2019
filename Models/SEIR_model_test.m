@@ -1,5 +1,8 @@
 % This is a model canvas for the SEIR model
 % This uses provincial data 
+% References: 
+% https://sites.me.ucsb.edu/~moehlis/APC514/tutorials/tutorial_seasonal/node4.html
+% https://wwwnc.cdc.gov/eid/article/26/7/20-1595_article
 %
 % Date: May 2020
 % Author: Paulin Kantue
@@ -14,8 +17,8 @@ gamma = 1/27; % mean infectious period
 beta = 0.08/1000; % contact rate over 1000
 
 % initial simulation constants (western-cape)/1000
-S = 881; % fraction of suceptible individual
-E = 0;  % fraction of exposed individual
+S = 880; % fraction of suceptible individual
+E = 1;  % fraction of exposed individual
 I = 88; % fraction of infected individual
 R = 31; % fraction of recovered individual
 
