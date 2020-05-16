@@ -8,11 +8,21 @@
 % Date: May 2020
 % Author: Paulin Kantue
 function [sim_out] = SEIR_model_func(T,R,I,beta)
-%% 
+%%
+rng('default');
 
+ind = 1:400; % simulation days
+
+%% compute more realistic randomized incubation/communicable period
+a = 11.5; % average incubation period then isolation/quarantine (symptomatic) - 85% of cases
+b = 27; % maximum communicable period for asymptomatic cases - 15% of cases.
+r = a + (b-a).*rand(length(ind),length(T));
+gamma_data = 1./abs(r');
+
+gamma = gamma_data(:,1); % mean infectious period
+%%
 mu = 0; % equal birth and death rates
 alpha = 1/2; % mean latent period for the disease
-gamma = 1/21; % mean infectious period
 beta = beta/1000; % contact rate over 1000
 
 % initial simulation constants (western-cape)/1000
@@ -24,9 +34,10 @@ S = 1000 - (I + E + R); % fraction of suceptible individuals
 %% perform simulation
 sim_out = [];
 
-ind = 1:400; % simulation days
 count = 1;
 for i = 1:length(ind)
+    
+    gamma = gamma_data(:,i); % mean infectious period
     
     dS = mu - beta.*S.*I - mu.*S;
     dE = beta.*S.*I - (mu + alpha).*E;
