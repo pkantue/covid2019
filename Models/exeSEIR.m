@@ -18,6 +18,12 @@ R = data_R{2:10,end-1}; % latest recovered cases
 I = data_I{3:11,end-1}; % latest active/infected cases
 beta = data_b{3:11,end-1}; % latest rate of infection
 
+%% get the latest date with data table
+date_str = split((data_b.Properties.VariableDescriptions{1,end-1}),'Original column heading: ');
+date_str = split(date_str{2,1},'''');
+date_str = date_str{2,1};
+cur_date = datetime(date_str);
+
 %% run SEIR simulation
 output = SEIR_model_func(T,R,I,beta);
 
@@ -26,3 +32,8 @@ active_cases = [I];
 for i =1:length(output)
     active_cases = [active_cases output{1,i}(:,5)];
 end
+
+%% run rolling peak for a rolling 20 days
+
+% for i = 1:20
+    
