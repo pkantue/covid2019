@@ -44,5 +44,10 @@ for k = 1:numDays
     %% get max value and date of apex
     [val(k),ind] = max(sum(active_cases));
     val_date(1,k) = cur_date(1,ind);
-    
+    temp = sum(active_cases);
+    hist_val(k) = temp(1);
+    hist_date(k) = cur_date(1,1);
 end
+
+%% output to Excel for graphing
+print_out = [val; hist_val];
