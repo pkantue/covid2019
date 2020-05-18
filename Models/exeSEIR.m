@@ -33,7 +33,8 @@ for i =1:length(output)
     active_cases = [active_cases output{1,i}(:,5)];
 end
 
-%% run rolling peak for a rolling 20 days
-
-% for i = 1:20
+%% get dates associated with output data
+for i =1:length(output)
+    cur_date(1,i+1) = dateshift(cur_date(1,i),'start','day',5);
+end
     
