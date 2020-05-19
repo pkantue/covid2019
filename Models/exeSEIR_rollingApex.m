@@ -49,5 +49,8 @@ for k = 1:numDays
     hist_date(k) = cur_date(1,1);
 end
 
+%% compute the difference in time current vs predicted
+diff_date = caldays(between(hist_date,val_date,'days'));
+
 %% output to Excel for graphing
 print_out = [val; hist_val];
