@@ -10,8 +10,13 @@ data_T = readtable('..\Data\Covid2019\SA_data_archive\Province_database.xlsx','s
 data_I = readtable('..\Data\Covid2019\SA_data_archive\Province_database.xlsx','sheet','Active');
 data_R = readtable('..\Data\Covid2019\SA_data_archive\Province_database.xlsx','sheet','Recoveries');
 data_b = readtable('..\Data\Covid2019\SA_data_archive\Province_database.xlsx','sheet','Infection Rate');
-%%
 
+%% compute active cases per 100,000
+Ib = data_I{3:11,end-1};
+popu = data_b{15:23,2};
+res = 100000.*Ib./popu;
+
+%% compute number rolling active cases peak
 numDays = 14; % compute the peak of active cases from the last two weeks
 
 for k = 1:numDays
