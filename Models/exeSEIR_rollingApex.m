@@ -58,4 +58,4 @@ end
 diff_date = caldays(between(hist_date,val_date,'days'));
 
 %% output to Excel for graphing
-print_out = [val; hist_val];
+print_out = [hist_val; val];
